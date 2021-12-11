@@ -791,12 +791,12 @@ h4 {
 }
 
 .tc-black {
-    color: white!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
-    background: radial-gradient(black, #f3976c);
-    color: #FFFFFF!important;
+    background: #f3976c;
+    color: black!important;
 }
 
 .black {
